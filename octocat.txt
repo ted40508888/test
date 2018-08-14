@@ -1,0 +1,8 @@
+
+1. git init
+2. git config user.name "xxxxxx"
+3. git config user.email "xxxxx@gmail.com"
+4. git add octocat.txt
+5. git commit -m "Add cute octocat story"
+6. git remote add origin https://github.com/xxxxxx/test.git
+7. git push -u origin master
